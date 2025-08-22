@@ -80,7 +80,7 @@ Here are some sample outputs generated during the project:
 - **Correlation Matrix Heatmap**  
   ![Correlation Matrix](screenshots/correlation_matrix.png)  
 
-- **Class Distribution (Before vs After Balancing)**  
+- **Class Distribution (Before Balancing)**  
   ![Class Distribution](screenshots/class_distribution.png)  
 
 - **Confusion Matrix**  
