@@ -78,25 +78,25 @@ heart-attack-prediction-spark/
 Here are some sample outputs generated during the project:  
 
 - **Correlation Matrix Heatmap**
-  <p>
+  <p align="center">
   <img src="screenshots/correlation_matrix.png" alt="Streamlit batch screenshot" width="500">
   </p>
 
 - **Class Distribution (Before Balancing)**
-  <p>
+  <p align="center">
   <img src="screenshots/class_distribution.png" width="500">
   </p>
 
 - **Confusion Matrix**
- <p>
+ <p align="center">
   <img src="screenshots/confusion_matrix.png" alt="Confusion Matrix" width="600">
 </p>
- <p>
-  <img src="screenshots/confusion_matrix_pca.png" alt="Confusion Matrix" width="800">
+ <p align="center">
+  <img src="screenshots/confusion_matrix_pca.png" alt="Confusion Matrix" width="750">
 </p>
 
 - **ROC Curve Comparison**
-  <p>
+  <p align="center">
   <img src="screenshots/roc_curve.png" width="500">
   </p>
   
