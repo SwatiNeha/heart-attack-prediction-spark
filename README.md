@@ -77,8 +77,10 @@ heart-attack-prediction-spark/
 
 Here are some sample outputs generated during the project:  
 
-- **Correlation Matrix Heatmap**  
-  ![Correlation Matrix](screenshots/correlation_matrix.png)  
+- **Correlation Matrix Heatmap**
+  <p>
+  <img src="screenshots/correlation_matrix.png" alt="Streamlit batch screenshot" width="750">
+  </p>
 
 - **Class Distribution (Before Balancing)**  
   ![Class Distribution](screenshots/class_distribution.png)  
