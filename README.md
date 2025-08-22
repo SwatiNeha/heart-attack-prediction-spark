@@ -34,6 +34,16 @@ Key challenges addressed:
 
 ---
 
+## 📂 Repository Structure
+```bash
+heart-attack-prediction-spark/
+│── heart_attack_pipeline.py     # Spark MLlib pipeline script
+│── heart_2022_with_nans.csv     # Dataset (Git LFS, ~139MB)
+│── screenshots/                 # Add plots to display in README
+│── .gitignore
+│── .gitattributes
+└── README.md
+```
 
 ## ⚙️ Workflow  
 
@@ -108,13 +118,9 @@ Here are some sample outputs generated during the project:
    *.pdf → confusion matrices, ROC curves, scree plots
    pca_explained_variance.csv → PCA variance explained
    ```
-## 📂 Repository Structure
-```bash
-heart-attack-prediction-spark/
-│── heart_attack_pipeline.py     # Spark MLlib pipeline script
-│── heart_2022_with_nans.csv     # Dataset (Git LFS, ~139MB)
-│── screenshots/                 # Add plots to display in README
-│── .gitignore
-│── .gitattributes
-└── README.md
-```
+
+## 🔮 Future Improvements
+- Try advanced oversampling (SMOTE) instead of manual duplication.  
+- Compare Logistic Regression with tree-based models (Random Forest, XGBoost).  
+- Deploy the trained model as a REST API for real-time predictions.  
+- Explore explainability tools (e.g., SHAP) for feature importance.  
