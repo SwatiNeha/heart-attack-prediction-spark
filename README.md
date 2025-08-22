@@ -82,15 +82,21 @@ Here are some sample outputs generated during the project:
   <img src="screenshots/correlation_matrix.png" alt="Streamlit batch screenshot" width="500">
   </p>
 
-- **Class Distribution (Before Balancing)**  
-  ![Class Distribution](screenshots/class_distribution.png)  
+- **Class Distribution (Before Balancing)**
+  <p>
+  <img src="screenshots/class_distribution.png" alt="Streamlit batch screenshot" width="500">
+  </p>
 
-- **Confusion Matrix**  
-  ![Confusion Matrix](screenshots/confusion_matrix.png)  
+- **Confusion Matrix**
+  <p>
+  <img src="screenshots/confusion_matrix.png" alt="Streamlit batch screenshot" width="250">
+  </p>
 
-- **ROC Curve Comparison**  
-  ![ROC Curve](screenshots/roc_curve.png)  
-
+- **ROC Curve Comparison**
+  <p>
+  <img src="screenshots/roc_curve.png" alt="Streamlit batch screenshot" width="500">
+  </p>
+  
 ---
 
 ## 🚀 How to Run  
