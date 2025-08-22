@@ -89,7 +89,10 @@ Here are some sample outputs generated during the project:
 
 - **Confusion Matrix**
  <p>
-  <img src="screenshots/confusion_matrix.png" alt="Confusion Matrix" width="500">
+  <img src="screenshots/confusion_matrix.png" alt="Confusion Matrix" width="600">
+</p>
+ <p>
+  <img src="screenshots/confusion_matrix_pca.png" alt="Confusion Matrix" width="800">
 </p>
 
 - **ROC Curve Comparison**
