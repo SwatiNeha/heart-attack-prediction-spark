@@ -84,17 +84,17 @@ Here are some sample outputs generated during the project:
 
 - **Class Distribution (Before Balancing)**
   <p>
-  <img src="screenshots/class_distribution.png" alt="Streamlit batch screenshot" width="500">
+  <img src="screenshots/class_distribution.png" width="500">
   </p>
 
 - **Confusion Matrix**
  <p>
-  <img src="screenshots/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+  <img src="screenshots/confusion_matrix.png" alt="Confusion Matrix" width="500">
 </p>
 
 - **ROC Curve Comparison**
   <p>
-  <img src="screenshots/roc_curve.png" alt="Streamlit batch screenshot" width="500">
+  <img src="screenshots/roc_curve.png" width="500">
   </p>
   
 ---
