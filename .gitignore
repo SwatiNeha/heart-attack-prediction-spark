@@ -1,0 +1,30 @@
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter/plots/outputs you might generate
+*.pdf
+*.png
+*.svg
+*.csv
+*.txt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Spark logs
+*.crc
+derby.log
+metastore_db/
+spark-warehouse/
+EOF
