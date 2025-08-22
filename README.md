@@ -82,10 +82,12 @@ Here are some sample outputs generated during the project:
   <img src="screenshots/correlation_matrix.png" alt="Streamlit batch screenshot" width="500">
   </p>
 
+
 - **Class Distribution (Before Balancing)**
   <p align="center">
   <img src="screenshots/class_distribution.png" width="500">
   </p>
+
 
 - **Confusion Matrix**
  <p align="center">
@@ -95,10 +97,12 @@ Here are some sample outputs generated during the project:
   <img src="screenshots/confusion_matrix_pca.png" alt="Confusion Matrix" width="750">
 </p>
 
+
 - **ROC Curve Comparison**
   <p align="center">
   <img src="screenshots/roc_curve.png" width="500">
   </p>
+
   
 ---
 
