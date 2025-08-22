@@ -79,7 +79,7 @@ Here are some sample outputs generated during the project:
 
 - **Correlation Matrix Heatmap**
   <p>
-  <img src="screenshots/correlation_matrix.png" alt="Streamlit batch screenshot" width="750">
+  <img src="screenshots/correlation_matrix.png" alt="Streamlit batch screenshot" width="500">
   </p>
 
 - **Class Distribution (Before Balancing)**  
