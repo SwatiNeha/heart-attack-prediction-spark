@@ -88,9 +88,10 @@ Here are some sample outputs generated during the project:
   </p>
 
 - **Confusion Matrix**
-  <p>
-  <img src="screenshots/confusion_matrix.png" alt="Streamlit batch screenshot" width="250">
-  </p>
+ <p>
+  <img src="screenshots/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+  <img src="screenshots/confusion_matrix_pca.png" alt="Confusion Matrix PCA" width="400"/>
+</p>
 
 - **ROC Curve Comparison**
   <p>
