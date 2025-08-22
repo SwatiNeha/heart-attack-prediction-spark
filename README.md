@@ -120,7 +120,7 @@ Here are some sample outputs generated during the project:
    ```
 
 ## 🔮 Future Improvements
-- Try advanced oversampling (SMOTE) instead of manual duplication.  
-- Compare Logistic Regression with tree-based models (Random Forest, XGBoost).  
-- Deploy the trained model as a REST API for real-time predictions.  
-- Explore explainability tools (e.g., SHAP) for feature importance.  
+- Trying advanced oversampling (SMOTE) instead of manual duplication.  
+- Comparing Logistic Regression with tree-based models (Random Forest, XGBoost).  
+- Deploying the trained model as a REST API for real-time predictions.  
+- Exploring explainability tools (e.g., SHAP) for feature importance.  
